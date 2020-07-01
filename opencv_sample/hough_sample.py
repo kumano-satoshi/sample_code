@@ -3,8 +3,8 @@ import numpy as np
 
 def pick_up_blue_ball():
     cap = cv2.VideoCapture(0)
-    cap.set(3, 1280)
-    cap.set(4, 720)
+    cap.set(3, 640)
+    cap.set(4, 480)
 
     while True:
         ret,img = cap.read()
