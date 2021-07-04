@@ -1,5 +1,7 @@
 #-*- coding: utf-8 -*-
 
+#Original_Author -- Koki Shirota
+
 import cv2
 import numpy as np
 
@@ -60,5 +62,3 @@ while True:
 
 cap.release()
 cv2.destroyAllWindows()
-
-#original author -- Koki Shirota
