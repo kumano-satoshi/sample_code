@@ -1,3 +1,5 @@
+#Original_Author -- Koki Shirota
+
 import cv2
 import numpy as np
 
@@ -48,6 +50,3 @@ def pick_up_blue_ball():
 
 if __name__ == "__main__":
     pick_up_blue_ball()
-
-
-#original author -- Koki Shirota
