@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
+#Original_Author --Koki Shirota
+
 import cv2
 
 cap = cv2.VideoCapture(0)
@@ -23,5 +25,3 @@ except KeyboardInterrupt:
 
 cap.release()
 cv2.destroyAllWindows()
-
-#original author -- Koki Shirota
