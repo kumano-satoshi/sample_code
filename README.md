@@ -1,5 +1,5 @@
-# sample_code
-こちらはOpenCVとPython3による画像処理のサンプルプログラムです．
+# 画像処理サンプルプログラム(OpenCV + Python3)
+こちらはOpenCVとPython3を用いた画像処理のサンプルプログラムです．
 
 ### 動作環境
 - OS ... Ubuntu 20.04 LTS<br>
